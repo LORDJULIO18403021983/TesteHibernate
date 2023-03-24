@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/mysql-connector-java-5.1.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/slf4j-jdk14-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/caelum-stella-core-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/caelum-stella-faces-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/commons-discovery-0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/iText.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/jstl-impl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/junit-4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/myfaces-api-1.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/myfaces-impl-1.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/mysql-connector-java-5.1.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/richfaces-api-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/richfaces-impl-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio/OneDrive/Documentos/Bibliotecas/richfaces-ui-3.3.1.GA.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
