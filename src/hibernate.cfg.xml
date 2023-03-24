@@ -15,6 +15,7 @@
 		
 		<!-- Criação/Utilização da base da dados -->
 		<property name="hbm2ddl.auto">validate</property>
+		<!-- <property name="hbm2ddl.auto">create</property> -->
 		
 		<!-- Classes -->
 		<mapping class="bean.Pessoa" />
